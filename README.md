@@ -1,1 +1,2 @@
-# matefi
+# MateFi
+Frax Loans is a decentralized application (dApp) designed to empower NFT owners by allowing them to borrow Frax stablecoin using their NFTs as collateral. It aims to address the challenge of effectively pricing NFTs, which has limited their use as collateral in traditional lending systems. By utilizing an active auction mechanism, Frax Loans provides a dynamic and flexible way for NFT owners to access loans and for Frax lenders to participate in the lending process
